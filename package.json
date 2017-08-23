@@ -1,0 +1,27 @@
+{
+  "name": "node-markerapi",
+  "version": "0.0.1",
+  "description": "API wrapper for markerapi",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tushararora/node-markerapi.git"
+  },
+  "keywords": [
+    "markerapi"
+  ],
+  "author": "Tushar Arora",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tushararora/node-markerapi/issues"
+  },
+  "homepage": "https://github.com/tushararora/node-markerapi#readme",
+  "dependencies": {
+    "chai": "^4.1.1",
+    "mocha": "^3.5.0",
+    "sinon": "^3.2.1"
+  }
+}
