@@ -1,6 +1,6 @@
 {
   "name": "node-trademark",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "API wrapper for getting trademark information from http://www.trademark.com/",
   "main": "src/index.js",
   "scripts": {
