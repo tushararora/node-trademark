@@ -1,7 +1,7 @@
 {
   "name": "node-trademark",
   "version": "1.0.0",
-  "description": "API wrapper for getting trademark information from http://www.trademark.com/",
+  "description": "API wrapper for getting trademark information from http://www.markerapi.com",
   "main": "src/index.js",
   "scripts": {
     "test": "node_modules/mocha/bin/_mocha"
