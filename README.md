@@ -18,7 +18,7 @@ This repo is supposed to run fine on all major OS platforms and targets `Node.js
 
 You will need to sign up on http://www.markerapi.com and use credentials in the form of a set of username and password. You can get these from your markerapi profile.
 
-```
+```js
 const markerApi = require('')
 markerApi.init({
     username: ''
@@ -30,7 +30,7 @@ markerApi.init({
 
 You now have the ability to search trademark against a string.
 
-```
+```js
 markerApi
     .getTrademark(searchQuery /* 'Microsoft' */)
     .then(function (res) {
@@ -68,4 +68,5 @@ npm test
 
 Please mention node and npm version while creating an issue.
 
+[travis-image]: https://img.shields.io/travis/adonisjs/adonis-validation-provider/master.svg?style=flat-square
 [travis-url]: https://travis-ci.org/tushararora/node-trademark
