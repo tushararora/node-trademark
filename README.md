@@ -7,7 +7,7 @@ API wrapper for getting trademark information from http://www.markerapi.com
 ## Install
 
 ```
-$ npm install node-trademark
+  $ npm install node-trademark
 ```
 
 ## Node/OS Target
@@ -19,7 +19,7 @@ This repo is supposed to run fine on all major OS platforms and targets `Node.js
 You will need to sign up on http://www.markerapi.com and use credentials in the form of a set of username and password. You can get these from your markerapi profile.
 
 ```js
-const markerApi = require('')
+const markerApi = require('node-trademark')
 markerApi.init({
     username: ''
     password: ''
@@ -61,7 +61,7 @@ markerApi
 ### Test
 
 ```
-npm test
+  npm test
 ```
 
 ## Issues

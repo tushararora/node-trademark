@@ -119,8 +119,8 @@ class MarkerApi {
       ._makeRequest(url)
       .then((body) => {
         /**
-         * body is returned as a string, that is
-         * why it is parsed as json
+         * body is received as a string, that is
+         * why it needs to be parsed as json
          */
         let result
         try {
