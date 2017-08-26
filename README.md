@@ -6,8 +6,8 @@ API wrapper for getting trademark information from http://www.markerapi.com
 
 ## Install
 
-```
-  $ npm install node-trademark
+```bash
+$ npm install node-trademark
 ```
 
 ## Node/OS Target
@@ -60,8 +60,8 @@ markerApi
 
 ### Test
 
-```
-  npm test
+```bash
+npm test
 ```
 
 ## Issues
