@@ -2,8 +2,6 @@
 
 API wrapper for getting trademark information from http://www.markerapi.com
 
-[![Build Status][travis-image]][travis-url]
-
 ## Install
 
 ```bash
@@ -61,12 +59,9 @@ markerApi
 ### Test
 
 ```bash
-npm test
+$ npm test
 ```
 
 ## Issues
 
 Please mention node and npm version while creating an issue.
-
-[travis-image]: https://img.shields.io/travis/adonisjs/adonis-validation-provider/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/tushararora/node-trademark
